@@ -1,4 +1,4 @@
-import { init } from "../../lib/init";
+import { init } from "@/lib/init";
 
 init(); // ensures cron starts once
 
